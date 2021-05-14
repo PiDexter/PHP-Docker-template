@@ -1,8 +1,7 @@
 PHP Docker template
 
 <section>
-<h2>How to run Fletnix with Docker?</h2>
-Run Fletnix with docker on your local machine by following the next steps.
+<h2>Installation</h2>
 
 <ol>
 <li>Download/clone this repo</li>
